@@ -2,3 +2,6 @@ _site
 .DS_Store
 startup.sh
 2015-07-02-planlist.md
+*.jpg
+*.png
+*.gif
